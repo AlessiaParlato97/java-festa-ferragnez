@@ -36,6 +36,8 @@ public class CheckGuest {
                 isInvited = true;
                 break;
             }
+            scan.close();
+
         }
              // Verifica con ciclo while (bonus)
                /* int i = 0;
